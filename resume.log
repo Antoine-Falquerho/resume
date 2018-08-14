@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  14 AUG 2018 22:43
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  14 AUG 2018 22:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -862,7 +862,11 @@ LaTeX Info: Redefining \nameref on input line 88.
 \@outlinefile=\write3
 \openout3 = `resume.out'.
 
- (./resume/experience.tex
+
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+(./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
 (Font)              scaled to size 10.95015pt on input line 14.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -933,10 +937,10 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 Here is how much of TeX's memory you used:
  25382 strings out of 492970
  461258 string characters out of 6133938
- 671839 words of memory out of 5000000
+ 671724 words of memory out of 5000000
  29171 multiletter control sequences out of 15000+600000
  532690 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 47i,11n,72p,10427b,424s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,11n,72p,10427b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on resume.pdf (1 page).
