@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  15 AUG 2018 09:21
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  16 AUG 2018 22:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -864,47 +864,42 @@ LaTeX Info: Redefining \nameref on input line 88.
 
  (./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.95015pt on input line 14.
+(Font)              scaled to size 10.95015pt on input line 16.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.67863pt on input line 14.
+(Font)              scaled to size 7.67863pt on input line 16.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.45398pt on input line 14.
+(Font)              scaled to size 5.45398pt on input line 16.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 10.94983pt on input line 14.
+(Font)              scaled to size 10.94983pt on input line 16.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 7.6784pt on input line 14.
+(Font)              scaled to size 7.6784pt on input line 16.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.45381pt on input line 14.
+(Font)              scaled to size 5.45381pt on input line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 14.
+t line 16.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not avail
 able
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on inpu
-t line 14.
+t line 16.
 
-Overfull \hbox (5.69043pt too wide) in alignment at lines 14--14
+Overfull \hbox (5.69043pt too wide) in alignment at lines 16--16
 [] [] 
  []
 
 
-Overfull \hbox (5.69043pt too wide) in alignment at lines 26--26
+Overfull \hbox (5.69043pt too wide) in alignment at lines 29--29
 [] [] 
  []
 
 
-Overfull \hbox (5.69043pt too wide) in alignment at lines 39--39
+Overfull \hbox (5.69043pt too wide) in alignment at lines 45--45
 [] [] 
  []
 
 
-Overfull \hbox (5.69043pt too wide) in alignment at lines 55--55
-[] [] 
- []
-
-
-Overfull \hbox (5.69043pt too wide) in alignment at lines 68--68
+Overfull \hbox (5.69043pt too wide) in alignment at lines 58--58
 [] [] 
  []
 
@@ -931,11 +926,11 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 25382 strings out of 492970
- 461258 string characters out of 6133938
- 671839 words of memory out of 5000000
- 29171 multiletter control sequences out of 15000+600000
- 532690 words of font info for 78 fonts, out of 8000000 for 9000
+ 25378 strings out of 492970
+ 461045 string characters out of 6133938
+ 671795 words of memory out of 5000000
+ 29169 multiletter control sequences out of 15000+600000
+ 532674 words of font info for 76 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  47i,11n,72p,10427b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
