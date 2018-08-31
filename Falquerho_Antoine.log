@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  19 AUG 2018 22:29
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.4.16)  31 AUG 2018 12:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**resume.tex
-(./resume.tex
+**Falquerho_Antoine.tex
+(./Falquerho_Antoine.tex
 LaTeX2e <2018-04-01> patch level 2
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (./awesome-cv.cls
@@ -737,8 +737,9 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 95.
 )
 (/usr/local/texlive/2018/texmf-dist/tex/latex/import/import.sty
 Package: import 2009/03/23  v 5.1
-) (./resume.aux)
-\openout1 = `resume.aux'.
+)
+(./Falquerho_Antoine.aux)
+\openout1 = `Falquerho_Antoine.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
@@ -760,7 +761,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 88.
 
 *geometry* driver: auto-detecting
@@ -858,9 +859,9 @@ LaTeX Info: Redefining \ref on input line 88.
 LaTeX Info: Redefining \pageref on input line 88.
 LaTeX Info: Redefining \nameref on input line 88.
 
-(./resume.out) (./resume.out)
+(./Falquerho_Antoine.out) (./Falquerho_Antoine.out)
 \@outlinefile=\write3
-\openout3 = `resume.out'.
+\openout3 = `Falquerho_Antoine.out'.
 
  (./resume/experience.tex
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
@@ -919,19 +920,19 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
 
 ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
- (./resume.aux)
+ (./Falquerho_Antoine.aux)
 Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 98.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
-Package rerunfilecheck Info: File `resume.out' has not changed.
+Package rerunfilecheck Info: File `Falquerho_Antoine.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
  25382 strings out of 492970
- 461258 string characters out of 6133938
- 671821 words of memory out of 5000000
+ 461401 string characters out of 6133938
+ 671854 words of memory out of 5000000
  29171 multiletter control sequences out of 15000+600000
  532690 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 47i,11n,72p,10427b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 47i,11n,72p,10438b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.pdf (1 page).
+Output written on Falquerho_Antoine.pdf (1 page).
